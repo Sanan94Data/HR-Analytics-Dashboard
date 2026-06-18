@@ -33,3 +33,23 @@ Developed a multi-page Power BI dashboard analyzing workforce demographics, attr
 - Sanan_Thushanthan_HR_Dashboard.pdf
 
 ## Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](Executive_Dashboard.png)
+
+### Attrition Analysis
+
+![Attrition Analysis](Attrition_Analysis.png)
+
+### Performance & Engagement
+
+![Performance & Engagement](Performance_Engagement.png)
+
+### Workforce Demographics
+
+![Workforce Demographics](Workforce_Demographics.png)
+
+### Executive Summary
+
+![Executive Summary](Executive_Summary.png)
