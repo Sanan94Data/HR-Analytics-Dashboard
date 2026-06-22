@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# People Analytics Executive Dashboard
 
 ## Overview
 
